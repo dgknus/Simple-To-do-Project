@@ -1,3 +1,5 @@
+// The code is also in a .txt file in order to keep it in better visibility.
+
 // Canister id: v3x57-gaaaa-aaaab-qadmq-cai
 
 import Map "mo:base/HashMap";
